@@ -10,7 +10,7 @@ export const sportsChannels: RawChannelData[] = [
     "tvgName": "Btv",
     "tvgLogo": "https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",
     "groupTitle": "Sports",
-    "url": "https://tvsen6.aynaott.com/btvhd/index.m3u8"
+    "url": "http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd"
   },
   {
     "tvgId": "TSportsHD",
